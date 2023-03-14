@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ogIHv7qc4ZqnwXWjC3vsh7y1hZljjVuCgBqYz0Pv1m4=",
+  "Source": "Background-Service-Native",
+  "BasePath": "_content/Background-Service-Native",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
