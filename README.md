@@ -1,9 +1,5 @@
-# BackgroundService
-ow to write your own cron Job scheduler in ASP.NET Core (like Quartz, Hangfire, ...)
-
-```
-https://steven-giesel.com/blogPost/fb1ce2ab-dd27-43ed-aaab-077adf2d15cd
-```
+# [BackgroundService](https://steven-giesel.com/blogPost/fb1ce2ab-dd27-43ed-aaab-077adf2d15cd)
+How to write your own cron Job scheduler in ASP.NET Core (like Quartz, Hangfire, ...)
 
 ## How to write your own cron Job scheduler in ASP.NET Core (like Quartz, Hangfire, ...)
 
