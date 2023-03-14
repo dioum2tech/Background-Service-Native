@@ -1,7 +1,6 @@
-﻿namespace Background_Service_Native.Jobs
+﻿namespace Background_Service_Native.Jobs;
+
+public interface ICronJob
 {
-    public interface ICronJob
-    {
-        Task Run(CancellationToken token = default);
-    }
+    Task Run(CancellationToken token = default);
 }
